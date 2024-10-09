@@ -55,7 +55,7 @@ function App() {
     <div className="App">
       <UnifiedDirectory
         workspace_id={"66c5c289896f59c02f0e9189"}
-        success_redirect={"http://localhost:3000/success"}
+        // success_redirect={"http://localhost:3000/success"}
         environment={"Production"}
         external_xref="11111111"
       />
